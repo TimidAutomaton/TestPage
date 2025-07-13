@@ -3,7 +3,7 @@ name: Deploy mdBook Github Pages
 on:
   push:
     branches:
-      - main
+      - trunk
   pull_request:
 
 jobs:
